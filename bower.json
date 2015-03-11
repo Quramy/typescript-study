@@ -1,0 +1,12 @@
+{
+  "name": "typescrpt-study",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Quramy/typescript-study",
+  "authors": [
+    "y-kurami <yosuke.kurami@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~3.5.0"
+  }
+}
