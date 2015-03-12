@@ -7,6 +7,36 @@
   "installed": {
     "lodash/lodash.d.ts": {
       "commit": "c594427c40354eae9dc618c50dc1c3d83da477b5"
+    },
+    "gulp/gulp.d.ts": {
+      "commit": "c594427c40354eae9dc618c50dc1c3d83da477b5"
+    },
+    "node/node.d.ts": {
+      "commit": "c594427c40354eae9dc618c50dc1c3d83da477b5"
+    },
+    "gulp-typescript/gulp-typescript.d.ts": {
+      "commit": "c594427c40354eae9dc618c50dc1c3d83da477b5"
+    },
+    "del/del.d.ts": {
+      "commit": "c594427c40354eae9dc618c50dc1c3d83da477b5"
+    },
+    "browser-sync/browser-sync.d.ts": {
+      "commit": "c594427c40354eae9dc618c50dc1c3d83da477b5"
+    },
+    "main-bower-files/main-bower-files.d.ts": {
+      "commit": "c594427c40354eae9dc618c50dc1c3d83da477b5"
+    },
+    "glob/glob.d.ts": {
+      "commit": "c594427c40354eae9dc618c50dc1c3d83da477b5"
+    },
+    "minimatch/minimatch.d.ts": {
+      "commit": "c594427c40354eae9dc618c50dc1c3d83da477b5"
+    },
+    "gulp-inject/gulp-inject.d.ts": {
+      "commit": "c594427c40354eae9dc618c50dc1c3d83da477b5"
+    },
+    "vinyl/vinyl.d.ts": {
+      "commit": "c594427c40354eae9dc618c50dc1c3d83da477b5"
     }
   }
 }

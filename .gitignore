@@ -1,6 +1,6 @@
+tmp
 .tmp
 *.swp
 *.swo
 node_modules
-typings
 bower_components

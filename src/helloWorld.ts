@@ -22,7 +22,7 @@ module Greeting {
   }
 
   export class Hello{
-    constructor(private text : string){
+    constructor(private text: string){
     }
     say() : void{
       console.log(this.text);
@@ -30,15 +30,16 @@ module Greeting {
   }
 }
 
-var arr:{name:string; key:number}[] = [{
-  name: 'foo', key:1
+var arr: {name: string; key: number}[] = [{
+  name: 'foo', key: 1
 }, {
-  name: 'bar', key:3
+  name: 'bar', key: 3
 }, {
-  name: 'foo', key:5
+  name: 'foo', key: 5
 }];
 
 console.log(_.groupBy(arr, 'name'));
+
 
 var hello : Greeting.Hello = new Greeting.Hello("Hello, World!");
 
