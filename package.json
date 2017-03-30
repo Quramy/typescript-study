@@ -3,14 +3,14 @@
   "version": "0.0.1",
   "devDependencies": {
     "browser-sync": "^2.2.3",
-    "del": "^1.1.1",
+    "del": "^2.2.2",
     "gulp": "^3.8.11",
-    "gulp-inject": "^1.2.0",
-    "gulp-load-plugins": "^0.8.1",
-    "gulp-typescript": "^2.4.2",
+    "gulp-inject": "^4.2.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-typescript": "^3.1.6",
     "main-bower-files": "^2.5.0",
-    "merge2": "^0.3.1",
+    "merge2": "^1.0.3",
     "typescript-require": "^0.2.8",
-    "wiredep": "^2.2.2"
+    "wiredep": "^4.0.0"
   }
 }
